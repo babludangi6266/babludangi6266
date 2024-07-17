@@ -7,8 +7,7 @@
 ### About Me
 I am a Full Stack Developer specializing in Java and MERN. Currently, I work at JSOMA Enterprise Pvt. Ltd . where I contribute to various backend and frontend projects.
 
-##Click to Know More ((
-babludangiportfolio.netlify.app))
+## [Click to Know More](https://babludangiportfolio.netlify.app)
 
 ### 🛠️ Technologies & Tools
 <p>
