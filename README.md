@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://portfolio-beta-puce-51.vercel.app/"><b>Portfolio</b></a>
+  🔗 <a href="https://bablu-six.vercel.app/"><b>Portfolio</b></a>
 </p>
 
 <br/>
