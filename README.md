@@ -137,15 +137,15 @@ const bablu = {
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=babludangi&bg_color=0D1117&color=CBD5E1&line=38BDF8&point=22C55E&area=true&hide_border=true" alt="Activity graph" />
+  <img width="95%" src="https://ghchart.rshah.org/38BDF8/babludangi" alt="Contribution chart" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=babludangi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/babludangi/babludangi/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/babludangi/babludangi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/babludangi/babludangi/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/babludangi/babludangi/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
