@@ -1,164 +1,236 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1e1b4b,100:06b6d4&height=230&section=header&text=Bablu%20Dangi&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Java%20%7C%20AI%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Bablu Dangi banner" />
+<img src="assets/banner.svg" width="100%" alt="Bablu Dangi — Full Stack and AI Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+scalable+web+platforms;Shipping+RAG+pipelines+for+real+users;MERN+%2B+Spring+Boot+%2B+Vector+Search;670+contributions+across+83+repositories" alt="Typing animation" />
+<br />
 
-<br /><br />
+<a href="https://bablu-six.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0d1322?style=flat-square&logo=vercel&logoColor=67e8f9&labelColor=0d1322&color=1e293b" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/babludangi"><img src="https://img.shields.io/badge/LINKEDIN-0d1322?style=flat-square&logo=linkedin&logoColor=67e8f9&labelColor=0d1322&color=1e293b" alt="LinkedIn" /></a>
+<a href="mailto:babludangi2000@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0d1322?style=flat-square&logo=gmail&logoColor=67e8f9&labelColor=0d1322&color=1e293b" alt="Email" /></a>
+<a href="https://www.instagram.com/bablu_patel__9788/"><img src="https://img.shields.io/badge/INSTAGRAM-0d1322?style=flat-square&logo=instagram&logoColor=67e8f9&labelColor=0d1322&color=1e293b" alt="Instagram" /></a>
 
-<a href="https://bablu-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/babludangi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:babludangi2000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.instagram.com/bablu_patel__9788/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Contributions-670-22C55E?style=flat-square&logo=github&logoColor=white" alt="670 contributions" />
-<img src="https://img.shields.io/badge/Repositories-83-38BDF8?style=flat-square&logo=github&logoColor=white" alt="83 repositories" />
-<img src="https://img.shields.io/badge/Experience-2%2B%20Years-8B5CF6?style=flat-square" alt="2+ years experience" />
-<img src="https://komarev.com/ghpvc/?username=babludangi&label=Profile%20Views&color=06b6d4&style=flat-square" alt="Profile views" />
+<sub><a href="#positioning">Positioning</a> &nbsp;·&nbsp; <a href="#systems">Selected Systems</a> &nbsp;·&nbsp; <a href="#capabilities">Capabilities</a> &nbsp;·&nbsp; <a href="#approach">Approach</a> &nbsp;·&nbsp; <a href="#timeline">Timeline</a> &nbsp;·&nbsp; <a href="#contact">Contact</a></sub>
 
 </div>
 
-<p align="center">
-  <a href="#about">About</a> ·
-  <a href="#focus">Focus</a> ·
-  <a href="#stack">Stack</a> ·
-  <a href="#ai">AI Engineering</a> ·
-  <a href="#work">Featured Work</a> ·
-  <a href="#activity">Activity</a> ·
-  <a href="#connect">Connect</a>
-</p>
+<img src="assets/divider.svg" width="100%" alt="" />
 
----
+<a id="positioning"></a>
 
-<a id="about"></a>
-## 👨‍💻 About
+### Positioning
 
-Full Stack Developer working across the **MERN stack**, **Java** and **Spring Boot**, with production experience in government, education, fintech, manufacturing and hospitality products.
+> I design and ship **production web platforms** and the **AI layers** that make them useful — from the data model and API surface to retrieval pipelines and the interface people actually touch.
+>
+> My work spans government-scale data systems, fintech, education, manufacturing ERP and hospitality. The common thread: **clear boundaries, predictable behaviour under failure, and software a small team can own.**
 
-Lately I've been focused on applied AI: **RAG pipelines**, LLM integration, vector databases and semantic search that solve real business problems.
-
-```js
-const bablu = {
-  role: "Full Stack Developer",
-  company: "Technoboot Pvt. Ltd.",
-  location: "Assam, India",
-  stack: ["React", "Node.js", "Express", "MongoDB", "Java", "Spring Boot"],
-  ai: ["RAG", "LangChain", "Qdrant", "Vector Search", "LLM APIs"],
-  github: { contributions: 670, repositories: 83 },
-  openTo: ["AI SaaS", "Freelance Engineering", "Collaborations"],
-};
-```
-
----
-
-<a id="focus"></a>
-## 🚀 Current Focus
+<br />
 
 | | |
-|---|---|
-| 🔭 **Building** | **Repomind** — AI codebase Q&A tool for small dev teams |
-| 🧠 **Exploring** | LLM orchestration, agentic workflows, vector search |
-| ⚙️ **Working with** | LangChain, Qdrant, tree-sitter, local and cloud embeddings |
-| 🌍 **Domains** | Government data, fintech, ed-tech, manufacturing ERP, hospitality |
+|:--|:--|
+| **Role** | Full Stack Developer — Technoboot Pvt. Ltd. |
+| **Core stack** | MERN · Java / Spring Boot |
+| **Applied AI** | RAG pipelines · LLM integration · vector search · semantic chunking |
+| **Domains** | Government data · Fintech · Ed-tech · Manufacturing ERP · Hospitality |
+| **Based in** | Assam, India — working with distributed teams |
+| **Open to** | AI-product engineering · Freelance builds · Focused collaborations |
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<a id="stack"></a>
-## 🛠️ Technology Stack
+<a id="systems"></a>
+
+### Selected Systems
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**ICAR-CIWA / NISWA**
+<br /><sub>`GOVERNMENT · DATA PLATFORM · RAG`</sub>
+
+National-scale agricultural household database supporting Government of India policy research.
+
+- Multilingual semantic search on a **LangChain RAG pipeline** (Node.js)
+- LLM-driven auto-tagging of records
+- Built for large datasets, role separation and auditability
+
+</td>
+<td width="50%" valign="top">
+
+**Manufacturing ERP**
+<br /><sub>`ENTERPRISE · WORKFLOW · DOCUMENTS`</sub>
+
+Role-based ERP for a manufacturing client with technical documentation.
+
+- **7 user profiles** across **10 modules**
+- **15+ documents** generated automatically from workflow data
+- Permission model designed around real shop-floor and office roles
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Repomind**
+<br /><sub>`AI SAAS · DEVELOPER TOOLING · IN PROGRESS`</sub>
+
+Codebase Q&A for small engineering teams — ask questions in plain language, get answers grounded in the repository.
+
+- **tree-sitter** semantic chunking so retrieval follows code structure
+- **Qdrant** for vector search, local and cloud embeddings
+- Freemium model: architecture, prompts and monetisation designed together
+
+</td>
+<td valign="top">
+
+**MatchMind**
+<br /><sub>`HIRING · MATCHING · SPRING BOOT`</sub>
+
+AI-assisted job matching and ATS platform.
+
+- **Java Spring Boot + MongoDB** core
+- Matching logic designed to run on free-tier infrastructure
+- Structured for incremental model upgrades without reworking the API
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Hiring Call Bot**
+<br /><sub>`VOICE AI · RECRUITMENT · MERN`</sub>
+
+Inbound voice screening platform for blue-collar job seekers.
+
+- Conversational call flow with structured candidate capture
+- Designed for low-literacy, high-volume, multilingual callers
+
+</td>
+<td valign="top">
+
+**Client Platforms**
+<br /><sub>`AKG PROPERTIES · TRAVEL CULTURE · RESUME BUILDER`</sub>
+
+Production sites and tools delivered end to end.
+
+- Real-estate suite: API, public web and admin console (Buy / Sell / Rent)
+- Travel storefront with SEO and WhatsApp enquiry flow
+- Resume builder with live preview and PDF export
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<a id="capabilities"></a>
+
+### Capabilities
+
+<table>
+<tr>
+<td width="22%"><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/Angular-111827?style=flat-square&logo=angular&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=67e8f9" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=springboot&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=flat-square&logoColor=67e8f9" />
+</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/Oracle-111827?style=flat-square&logo=oracle&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/BullMQ-111827?style=flat-square&logoColor=67e8f9" />
+</td>
+</tr>
+<tr>
+<td><b>Applied AI</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Qdrant-111827?style=flat-square&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Pinecone-111827?style=flat-square&logo=pinecone&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/Gemini-111827?style=flat-square&logo=googlegemini&logoColor=a78bfa" />
+<img src="https://img.shields.io/badge/tree--sitter-111827?style=flat-square&logoColor=a78bfa" />
+</td>
+</tr>
+<tr>
+<td><b>Delivery</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=67e8f9" />
+<img src="https://img.shields.io/badge/Figma-111827?style=flat-square&logo=figma&logoColor=67e8f9" />
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<a id="approach"></a>
+
+### Engineering Approach
+
+<table>
+<tr>
+<td width="25%" valign="top"><b>01 — Boundaries first</b><br /><sub>Model the domain and permissions before screens. Most production bugs are boundary bugs.</sub></td>
+<td width="25%" valign="top"><b>02 — Design for failure</b><br /><sub>Validation, retries, queues and sensible empty states are part of the feature, not an afterthought.</sub></td>
+<td width="25%" valign="top"><b>03 — Pragmatic AI</b><br /><sub>Use retrieval and LLMs where they remove real work. Measure quality, cost and latency, then simplify.</sub></td>
+<td width="25%" valign="top"><b>04 — Ownable systems</b><br /><sub>Small teams should be able to run, debug and extend what ships. Boring tech, clear structure.</sub></td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<a id="timeline"></a>
+
+### Timeline
+
+```text
+NOW        Full Stack Developer          Technoboot Pvt. Ltd.
+           MERN and Spring Boot platforms; RAG search and LLM tagging for a national data system;
+           role-based ERP; ongoing AI SaaS builds (Repomind, MatchMind)
+
+EARLIER    Fintech Intern                Credmarg Technologies, Hyderabad
+           Financial workflows and user operations in a production fintech product
+
+           Java Intern                   Ypsilon IT Solutions
+           Java back-end fundamentals in a team delivery setting
+
+TRAINING   Java Full Stack Development   Universal Informatics
+           Full Stack Developer          Sathya Technologies, Hyderabad
+```
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<a id="contact"></a>
+
+### Contact
+
+For product engineering, AI feature work or a well-scoped build, the quickest route is email.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,react,nodejs,express,spring,angular,mongodb,mysql,oracle,redis,git,github,vercel&perline=8" alt="Technology stack" />
+<a href="mailto:babludangi2000@gmail.com"><img src="https://img.shields.io/badge/babludangi2000%40gmail.com-0d1322?style=for-the-badge&logo=gmail&logoColor=67e8f9&labelColor=0d1322&color=1e293b" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/babludangi"><img src="https://img.shields.io/badge/LinkedIn-0d1322?style=for-the-badge&logo=linkedin&logoColor=67e8f9&labelColor=0d1322&color=1e293b" alt="LinkedIn" /></a>
+<a href="https://bablu-six.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1322?style=for-the-badge&logo=vercel&logoColor=67e8f9&labelColor=0d1322&color=1e293b" alt="Portfolio" /></a>
+
+<br /><br />
+
+<img src="assets/footer.svg" width="100%" alt="Build systems that stay simple as they grow." />
 
 </div>
-
-| Layer | Technologies |
-|---|---|
-| **Frontend** | React, Angular, Vite, Tailwind CSS |
-| **Backend** | Node.js, Express, Spring Boot, REST APIs |
-| **Databases** | MongoDB, MySQL, Oracle, Redis |
-| **AI / Data** | LangChain, Qdrant, Pinecone, OpenAI, Gemini |
-| **Tooling** | Git, GitHub Actions, BullMQ, Vercel |
-
----
-
-<a id="ai"></a>
-## 🧠 AI / LLM Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4B32C3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pinecone-0A0A23?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
-
-- Designed and shipped a LangChain-based RAG pipeline on Node.js for a national government data platform
-- Multilingual semantic search and LLM-powered auto-tagging
-- Semantic code chunking with tree-sitter
-- Self-hosted vector databases with cloud and local embeddings
-
----
-
-<a id="work"></a>
-## 📌 Featured Work
-
-| Project | What it is |
-|---|---|
-| **ICAR-CIWA / NISWA** | National-scale agricultural household database for Government of India policy research, with multilingual RAG search and auto-tagging |
-| **Repomind** | AI codebase Q&A using LangChain, Qdrant and tree-sitter chunking |
-| **Manufacturing ERP** | Role-based ERP with 7 user profiles, 10 modules, 15+ auto-generated documents |
-| **MatchMind** | AI-assisted job matching / ATS platform on Spring Boot + MongoDB |
-| **Hiring Call Bot** | Voice AI screening platform for blue-collar job seekers |
-| **AKG Properties** | Real estate platform (Buy / Sell / Rent) with backend, web and admin apps |
-| **Resume Builder** | Form-based builder with live preview, templates and PDF export |
-| **Travel Culture** | Premium travel agency site with packages and WhatsApp enquiry |
-
----
-
-<a id="activity"></a>
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/670-Contributions-22C55E?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/83-Repositories-38BDF8?style=for-the-badge&logo=github" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=babludangi&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=22C55E&text_color=CBD5E1" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babludangi&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=babludangi&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=22C55E&fire=F97316&currStreakLabel=38BDF8" alt="Streak" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://ghchart.rshah.org/38BDF8/babludangi" alt="Contribution chart" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/babludangi/babludangi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/babludangi/babludangi/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/babludangi/babludangi/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
-<a id="connect"></a>
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:babludangi2000@gmail.com"><img src="https://img.shields.io/badge/Email-babludangi2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/babludangi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/bablu_patel__9788/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
-<p align="center"><i>Thanks for stopping by — always happy to talk shop on RAG pipelines, MERN architecture, or the next side project. 🚀</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e1b4b,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="presentation">
+  <defs>
+    <linearGradient id="dLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#67e8f9" stop-opacity="0.6"/>
+      <stop offset="0.5" stop-color="#a78bfa" stop-opacity="0.7"/>
+      <stop offset="0.7" stop-color="#67e8f9" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67e8f9" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#67e8f9" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#67e8f9" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="dBlur" x="-20%" y="-200%" width="140%" height="500%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <!-- Faint base line -->
+  <rect x="0" y="13" width="1200" height="1" fill="url(#dLine)" opacity="0.5"/>
+
+  <!-- Glow trail behind pill -->
+  <rect x="0" y="10" width="120" height="8" rx="4" fill="url(#dGlow)" filter="url(#dBlur)">
+    <animate attributeName="x" values="80;1000;80" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Main sliding pill -->
+  <rect y="9" width="18" height="10" rx="5" fill="#67e8f9">
+    <animate attributeName="x" values="100;1080;100" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.15;1;0.15" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Second accent pill going opposite direction -->
+  <rect y="10" width="10" height="8" rx="4" fill="#a78bfa">
+    <animate attributeName="x" values="1050;150;1050" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Tiny sparkle dots -->
+  <circle r="1.5" fill="#67e8f9" opacity="0">
+    <animate attributeName="cx" values="300;300" dur="1s"/>
+    <animate attributeName="cy" values="14;14" dur="1s"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="2.5s" repeatCount="indefinite" begin="0s"/>
+  </circle>
+  <circle r="1" fill="#a78bfa" opacity="0">
+    <animate attributeName="cx" values="600;600" dur="1s"/>
+    <animate attributeName="cy" values="14;14" dur="1s"/>
+    <animate attributeName="opacity" values="0;0.7;0" dur="3s" repeatCount="indefinite" begin="1s"/>
+  </circle>
+  <circle r="1.5" fill="#67e8f9" opacity="0">
+    <animate attributeName="cx" values="900;900" dur="1s"/>
+    <animate attributeName="cy" values="14;14" dur="1s"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="2.8s" repeatCount="indefinite" begin="1.8s"/>
+  </circle>
+</svg>
